@@ -1,0 +1,24 @@
+{
+  "history": [
+    {
+      "timestamp_utc": "2025-11-09T03:47:35.974917+00:00",
+      "as_of": "2025-11-09T03:46:55Z",
+      "n_new_trades": 10,
+      "verification": {
+        "trades_bytes": 3150,
+        "trades_sha12": "940d82110cb3",
+        "feed_bytes": 388057,
+        "feed_sha12": "9ba9f7192e38",
+        "missing_trades": 0
+      },
+      "kpi": {
+        "closed_trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_pct": 0.0,
+        "avg_pnl": 0.0,
+        "total_pnl": 0
+      }
+    }
+  ]
+}
