@@ -1,2 +1,3 @@
 timestamp_utc,as_of,n_new_trades,closed_trades,wins,losses,win_rate_pct,avg_pnl,total_pnl,trades_bytes,trades_sha12,feed_bytes,feed_sha12,missing_trades
 2025-11-09T03:47:35.974917+00:00,2025-11-09T03:46:55Z,10,0,0,0,0.0,0.0,0,3150,940d82110cb3,388057,9ba9f7192e38,0
+2025-11-09T05:28:00.762570+00:00,2025-11-09T05:27:29Z,10,0,0,0,0.0,0.0,0,3153,47460ba13bc8,388060,b814ef7db5fc,0
