@@ -1319,6 +1319,26 @@
         "avg_pnl": 0.0,
         "total_pnl": 0
       }
+    },
+    {
+      "timestamp_utc": "2025-12-26T14:46:32.989935+00:00",
+      "as_of": "2025-12-26T14:45:57Z",
+      "n_new_trades": 10,
+      "verification": {
+        "trades_bytes": 3167,
+        "trades_sha12": "58b4078bea1c",
+        "feed_bytes": 460368,
+        "feed_sha12": "f64c1943379d",
+        "missing_trades": 0
+      },
+      "kpi": {
+        "closed_trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_pct": 0.0,
+        "avg_pnl": 0.0,
+        "total_pnl": 0
+      }
     }
   ]
 }
