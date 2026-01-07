@@ -1739,6 +1739,26 @@
         "avg_pnl": 0.0,
         "total_pnl": 0
       }
+    },
+    {
+      "timestamp_utc": "2026-01-07T14:52:03.000853+00:00",
+      "as_of": "2026-01-07T14:51:27Z",
+      "n_new_trades": 10,
+      "verification": {
+        "trades_bytes": 3160,
+        "trades_sha12": "c26f4e1e227f",
+        "feed_bytes": 458178,
+        "feed_sha12": "b26613b13fcd",
+        "missing_trades": 0
+      },
+      "kpi": {
+        "closed_trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_pct": 0.0,
+        "avg_pnl": 0.0,
+        "total_pnl": 0
+      }
     }
   ]
 }
